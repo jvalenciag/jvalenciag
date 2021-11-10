@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/jvalencia"><img src="https://api.daily.dev/devcards/b8c5eac6fc19403ca6740588cee5e4da.png?r=hjr" width="400" alt="Jose Valencia's Dev Card"/></a>
+<a href="https://app.daily.dev/jvalencia"><img src="https://api.daily.dev/devcards/b8c5eac6fc19403ca6740588cee5e4da.png?r=nyk" width="400" alt="Jose Valencia's Dev Card"/></a>
 
 <!--
 **jvalenciag/jvalenciag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
